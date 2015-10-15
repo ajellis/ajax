@@ -42,3 +42,4 @@ Improve the styling of the application.  Feel free to make whatever modification
 
 * [AJAX in Rails 4 Tutorial](http://www.gotealeaf.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails)
 * [Foundation Documentation](http://foundation.zurb.com/docs/)
+# ajax
